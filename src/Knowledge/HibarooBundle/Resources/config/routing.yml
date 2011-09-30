@@ -1,0 +1,7 @@
+homepage:
+    pattern:  /
+    defaults: { _controller: KnowledgeHibarooBundle:hibaroo:welcome }
+
+Hibaroo:
+    pattern:  /hibaroo
+    defaults: { _controller: KnowledgeHibarooBundle:hibaroo:index }
