@@ -1,0 +1,27 @@
+[submodule "vendor/symfony"]
+	path = vendor/symfony
+	url = git://github.com/symfony/symfony.git
+[submodule "vendor/monolog"]
+	path = vendor/monolog
+	url = git://github.com/Seldaek/monolog.git
+[submodule "vendor/swiftmailer"]
+	path = vendor/swiftmailer
+	url = git://github.com/swiftmailer/swiftmailer.git
+[submodule "vendor/assetic"]
+	path = vendor/assetic
+	url = git://github.com/kriswallsmith/assetic.git
+[submodule "vendor/bundles/Symfony/Bundle/AsseticBundle"]
+	path = vendor/bundles/Symfony/Bundle/AsseticBundle
+	url = git://github.com/symfony/AsseticBundle.git
+[submodule "vendor/bundles/Propel/PropelBundle"]
+	path = vendor/bundles/Propel/PropelBundle
+	url = git://github.com/propelorm/PropelBundle.git
+[submodule "vendor/phing"]
+	path = vendor/phing
+	url = git://github.com/Xosofox/phing.git
+[submodule "vendor/propel"]
+	path = vendor/propel
+	url = git://github.com/propelorm/Propel.git
+[submodule "vendor/metadata"]
+	path = vendor/metadata
+	url = git://github.com/schmittjoh/metadata.git
